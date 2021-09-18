@@ -1,2 +1,2 @@
 # testers
-testrun 
+for testrun only 
